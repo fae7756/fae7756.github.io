@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h1>Archive of posts from {{ page.date | date: "%B %-d, %Y" }}</h1>
+
+{% for post in page.posts %}
+  {% include post-preview.html %}
+{% endfor %}
