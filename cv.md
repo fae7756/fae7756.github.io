@@ -5,3 +5,4 @@ title: CV
 permalink: /cv.html
 ---
 Write your CV here.
+Artist
