@@ -45,36 +45,10 @@ collections:
   posts:
     output: true
     permalink: blog/:collection/:year-:month-:day-:slug
-  projects:
+  proyectos:
     output: true
     permalink: /:collection/:name
-  sin-titulo:
-    output: true
-    permalink: /:collection/:name
-  necropolis:
-    output: true
-    permalink: /:collection/:name
-  ruptura:
-    output: true
-    permalink: /:collection/:name
-  memento-mori:
-    output: true
-    permalink: /:collection/:name
-  time-has-nothing-to-do-with-it:
-    output: true
-    permalink: /:collection/:name
-  the-ghost-of-loneliness:
-    output: true
-    permalink: /:collection/:name
-  miccailhuitl:
-    output: true
-    permalink: /:collection/:name
-  autorretratos:
-    output: true
-    permalink: /:collection/:name
-  otros-trabajos:
-    output: true
-    permalink: /:collection/:name
+  
 
 
 jekyll-archives:
