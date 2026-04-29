@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: "Fæ Vega"
 name: Your Name
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -48,25 +48,30 @@ collections:
   projects:
     output: true
     permalink: /:collection/:name
-  photography:
+  sin-titulo:
     output: true
     permalink: /:collection/:name
-  video:
+  necropolis:
     output: true
     permalink: /:collection/:name
-  illustration:
+  ruptura:
     output: true
     permalink: /:collection/:name
-  soundart:
+  memento-mori:
     output: true
     permalink: /:collection/:name
-  sketchbook:
+  time-has-nothing-to-do-with-it:
     output: true
     permalink: /:collection/:name
-  zines:
+  the-ghost-of-loneliness:
     output: true
     permalink: /:collection/:name
-
+  miccailhuitl:
+    output: true
+    permalink: /:collection/:name
+  autorretratos:
+    output: true
+    permalink: /:collection/:name
 
 jekyll-archives:
   enabled: all
