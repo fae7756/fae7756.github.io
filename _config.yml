@@ -72,6 +72,10 @@ collections:
   autorretratos:
     output: true
     permalink: /:collection/:name
+  otros-trabajos:
+    output: true
+    permalink: /:collection/:name
+
 
 jekyll-archives:
   enabled: all
